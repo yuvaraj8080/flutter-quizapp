@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "317178551974",
+    "project_id": "fllutter-quiz-app",
+    "storage_bucket": "fllutter-quiz-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:317178551974:android:3539cc9ad1abcb2d4a5e67",
+        "android_client_info": {
+          "package_name": "io.fireship.quizapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "317178551974-rl203saio00b7tb436kid0ei524u4phs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAX-wf8rTPnjHxjYBFFSt0m-Qkbroi-4eE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "317178551974-rl203saio00b7tb436kid0ei524u4phs.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "317178551974-m28b1jji3muf6iqn4i0n17p146fc3hcf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "io.fireship.quizapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
